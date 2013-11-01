@@ -5,62 +5,47 @@
 	<!-- Top Navigation -->
 	<?php include 'menu.php'; ?>
 	
+	<section class="col-2 color ss-style-curvedown">
+		<div class="column">
+			<span class="icon icon-settings"></span>
+		</div>
+		<div class="column text">
+			<h2>COLLABORATION</h2>
+			<p>We believe that in this world there is a link between one thing and another. We are working hand in hand with our clients to create products that can help them to achieve their objectives.</p>
+		</div>
+	</section>
+
 	<div id="cbp-so-scroller" class="cbp-so-scroller">
-		<section class="cbp-so-section">
-			<article class="cbp-so-side cbp-so-side-left">
-				<h2>Lemon drops</h2>
-				<p>Fruitcake toffee jujubes. Topping biscuit sesame snaps jelly caramels jujubes tiramisu fruitcake. Marzipan tart lemon drops chocolate sesame snaps jelly beans.</p>
-			</article>
-			<figure class="cbp-so-side cbp-so-side-right">
-				<img src="img/1.png" alt="img01">
-			</figure>
-		</section>
-		<section class="cbp-so-section">
+		<section class="cbp-so-section" style="background:#aaa;">			
 			<figure class="cbp-so-side cbp-so-side-left">
-				<img src="img/2.png" alt="img01">
 			</figure>
 			<article class="cbp-so-side cbp-so-side-right">
-				<h2>Plum caramels</h2>
-				<p>Lollipop powder danish sugar plum caramels liquorice sweet cookie. Gummi bears caramels gummi bears candy canes cheesecake sweet roll icing dragée. Gummies jelly-o tart. Cheesecake unerdwear.com candy canes apple pie halvah chocolate tiramisu.</p>
-			</article>
-		</section>
-		<section class="cbp-so-section">
-			<article class="cbp-so-side cbp-so-side-left">
-				<h2>Marzipan gingerbread</h2>
-				<p>Soufflé bonbon jelly cotton candy liquorice dessert jelly bear claw candy canes. Pudding halvah bonbon marzipan powder. Marzipan gingerbread sweet jelly.</p>
-			</article>
-			<figure class="cbp-so-side cbp-so-side-right">
-				<img src="img/3.png" alt="img01">
-			</figure>
-		</section>
-		<section class="cbp-so-section">
-			<figure class="cbp-so-side cbp-so-side-left">
-				<img src="img/4.png" alt="img01">
-			</figure>
-			<article class="cbp-so-side cbp-so-side-right">
-				<h2>Carrot cake</h2>
-				<p>Sesame snaps sweet wafer danish. Chupa chups carrot cake icing donut halvah bonbon. Chocolate cake candy marshmallow pudding dessert marzipan jujubes sugar plum.</p>
-			</article>
-		</section>
-		<section class="cbp-so-section">
-			<article class="cbp-so-side cbp-so-side-left">
-				<h2>Pudding lollipop</h2>
-				<p>Chupa chups pudding lollipop gummi bears gummies cupcake pie. Cookie cotton candy caramels. Oat cake dessert applicake. Sweet roll tiramisu sweet roll sweet roll.</p>
-			</article>
-			<figure class="cbp-so-side cbp-so-side-right">
-				<img src="img/5.png" alt="img01">
-			</figure>
-		</section>
-		<section class="cbp-so-section">
-			<figure class="cbp-so-side cbp-so-side-left">
-				<img src="img/6.png" alt="img01">
-			</figure>
-			<article class="cbp-so-side cbp-so-side-right">
-				<h2>Soufflé bonbon</h2>
-				<p>Cake cotton candy lollipop. Cake croissant cheesecake candy sugar plum icing apple pie wafer. Pie sugar plum tiramisu tiramisu pie fruitcake candy icing. Candy icing gummies gummies cheesecake brownie lemon drops chocolate gingerbread.</p>
+				<h2>Prologue</h2>
+				<p>We do believe that one of our company largest assets is a good relationship with our clients. In today digital era, communication technology and information technology has become such an integral part. It means we need to manage both, so that the relationship keep grow and thrive.<br><br>It is what drives our existence, Advedia Informatics Solutions as a company that offers services in the field of ICT (Information and Communication Technology).</p>
 			</article>
 		</section>
 	</div>
+
+	<section class="col-2 ss-style-triangles" id="separator">
+		<div class="column text">
+			<h2>BECOME DIFFERENT IS A MUST!</h2>
+		</div>
+	</section>
+
+	<section class="col-3 ss-style-bigtriangle">
+		<div class="column">
+			<span class="icon icon-camera"></span>
+			<p>Take root and flourish. Extraordinary claims require extraordinary evidence, across the centuries venture hundreds of thousands are creatures of the cosmos rich in heavy atoms of brilliant syntheses Cambrian explosion Euclid...</p>
+		</div>
+		<div class="column">
+			<span class="icon icon-headphones"></span>
+			<p>Take root and flourish. Extraordinary claims require extraordinary evidence, across the centuries venture hundreds of thousands are creatures of the cosmos rich in heavy atoms of brilliant syntheses Cambrian explosion Euclid...</p>
+		</div>
+		<div class="column">
+			<span class="icon icon-podcast"></span>
+			<p>Take root and flourish. Extraordinary claims require extraordinary evidence, across the centuries venture hundreds of thousands are creatures of the cosmos rich in heavy atoms of brilliant syntheses Cambrian explosion Euclid...</p>
+		</div>
+	</section>
 
 </div><!-- end of .container -->
 

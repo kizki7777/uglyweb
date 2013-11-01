@@ -34,8 +34,19 @@
 
 }
 
+@font-face {
+	font-family: 'fontawesome';
+	src:url('../fonts/fontawesome/fontawesome.eot');
+	src:url('../fonts/fontawesome/fontawesome.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/fontawesome/fontawesome.svg#fontawesome') format('svg'),
+		url('../fonts/fontawesome/fontawesome.woff') format('woff'),
+		url('../fonts/fontawesome/fontawesome.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
 *, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
-body, html { font-size: 100%; padding: 0; margin: 0;}
+body, html { font-size: 100%; padding: 0; margin: 0; }
 
 /* Clearfix hack by Nicolas Gallagher: http://nicolasgallagher.com/micro-clearfix-hack/ */
 .clearfix:before, .clearfix:after { content: " "; display: table; }
